@@ -4,8 +4,8 @@
 
 ## About Me
 
-I am a 4th year Computer Science undegraduate from VIT, Vellore.<br> 
-<br>I'm a Web Developer and Data Science Enthusiast.<br>
+I am a 4th year Computer Science undegraduate from VIT, Vellore.
+<br><h4>I'm a Web Developer and Data Science Enthusiast.</h4><br>
 <em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had when used properly.</em>
 <!-- ### Languages and Tools
 
