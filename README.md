@@ -3,7 +3,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
 <br />
 
-<em> I am a 4th year Computer Science undegraduate from VIT, Vellore. I'm a Web Developer and Data Science Enthusiast. The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had when used properly. <em>
+<em> I am a 4th year Computer Science undegraduate from VIT, Vellore.<br> I'm a Web Developer and Data Science Enthusiast.<br>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had when used properly. <em>
 
 
 <h3>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
