@@ -2,10 +2,12 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
 
+<h4>Web Developer || Data Science Enthusiast</h4>
+
 ## About Me
 
 I am a 4th year Computer Science undegraduate from VIT, Vellore.
-<br><h4>I'm a Web Developer and Data Science Enthusiast.</h4><br>
+<br>
 <em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had when used properly.</em>
 <!-- ### Languages and Tools
 
@@ -26,7 +28,7 @@ I am a 4th year Computer Science undegraduate from VIT, Vellore.
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
-</p> --> -->
+</p> --> 
 
 
 <h2>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
