@@ -6,8 +6,8 @@
 <em> I am a 4th year Computer Science undegraduate from VIT, Vellore. I'm a Web Developer and Data Science Enthusiast. The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had when used properly. <em>
 
 
-  <h3>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-
+<h3>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+   <div align='center'> 
   <br>
 
   <a href="https://www.linkedin.com/in/varun-v-21920b147/">
@@ -17,3 +17,4 @@
     <img align="left" alt="Varun | Gmail" width="26px" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Gmail.svg" />
   </a>
 <br>
+</div>
