@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/developer.gif" />
 <br />
@@ -21,3 +22,21 @@
 
 <br>
 </div>
+=======
+### Hi there 👋
+
+<!--
+**VarunV991/VarunV991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 63d6ee2876c991fdfe6484576c3846943b4ea59a
