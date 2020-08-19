@@ -1,16 +1,15 @@
 ## Hi there 👋, I'm Varun V. 
 
-## I'm a Web Developer and Data Science Enthusiast.
 <img align="right" height="270px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
 
 ## About Me
 
 I am a 4th year Computer Science undegraduate from VIT, Vellore.<br> 
-<br><br>
+<br>I'm a Web Developer and Data Science Enthusiast.<br>
 <em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had when used properly.</em>
 <!-- ### Languages and Tools
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
@@ -27,7 +26,7 @@ I am a 4th year Computer Science undegraduate from VIT, Vellore.<br>
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
-</p> -->
+</p> --> -->
 
 
 <h2>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
