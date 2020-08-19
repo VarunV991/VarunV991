@@ -1,12 +1,12 @@
-## Hi there 👋, I'm Varun V.
+## Hi there 👋, I'm Varun V. I'm a Web Developer and Data Science Enthusiast.
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
 <br />
 
 ## About Me
 
-### I am a 4th year Computer Science undegraduate from VIT, Vellore.<br> 
-I'm a Web Developer and Data Science Enthusiast.<br><b>>
+I am a 4th year Computer Science undegraduate from VIT, Vellore.<br> 
+<br><br>
 <em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had when used properly.</em>
 <!-- ### Languages and Tools
 
