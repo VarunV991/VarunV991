@@ -9,44 +9,44 @@
 I am a 4th year Computer Science undegraduate from VIT, Vellore.
 <br>
 <em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had.</em>
-
+<br>
 ## Techologies and Tools used by me
 
 <p align="center">
   <a href="#">
-    <img src="Assets/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a> 
  <a href="#">
-    <img src="Assets/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a> 
  <a href="#">
-    <img src="Assets/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="Assets/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="#">
-    <img src="Assets/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="Assets/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="Assets/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 <p align="center">
   <a href="#">
-    <img src="Assets/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="Assets/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="Assets/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/VarunV991/VarunV991/blob/master/Assets/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 
