@@ -9,27 +9,46 @@
 I am a 4th year Computer Science undegraduate from VIT, Vellore.
 <br>
 <em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had.</em>
-<!-- ### Languages and Tools
 
-<!-- <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+## Techologies and Tools used by me
 
-</p> --> 
+<p align="center">
+  <a href="#">
+    <img src="Assets/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="Assets/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="Assets/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="Assets/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="Assets/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
 
+<p align="center">
+  <a href="#">
+    <img src="Assets/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="Assets/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
+<p align="center">
+  <a href="#">
+    <img src="Assets/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="Assets/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="Assets/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
 
 <h2>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
    <div align='center'> 
