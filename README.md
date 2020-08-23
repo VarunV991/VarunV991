@@ -9,7 +9,7 @@
 I am a 4th year Computer Science undegraduate from VIT, Vellore.
 <br>
 <em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had.</em>
-<br>
+<br><br><br>
 ## Techologies and Tools used by me
 
 <p align="center">
