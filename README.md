@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a 4th year Computer Science undegraduate from VIT, Vellore.
+I am a 4th year Computer Science undegraduate from VIT, Vellore. I am highly interested in data science and full stack development projects.
 <br>
 <em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had.</em>
 <br><br><br>
@@ -52,9 +52,7 @@ I am a 4th year Computer Science undegraduate from VIT, Vellore.
 </p>
 
 <h2>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
-   <div align='center'> 
-  <br>
-
+<div align='center'> 
   <a href="https://www.linkedin.com/in/varun-v-21920b147/">
     <img align="left" alt="Varun | Linkedin" width="24px" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Linkedin.svg" />
   </a>
