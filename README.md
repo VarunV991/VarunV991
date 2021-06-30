@@ -8,6 +8,7 @@
 
 I am a 4th year Computer Science undegraduate from VIT, Vellore. 
 <br>
+<br>
 My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly React.js/Angular.js) and Data Science.
 <br><br><br>
 
