@@ -6,9 +6,7 @@
 
 ## About Me
 
-I am a 4th year Computer Science undegraduate from VIT, Vellore. I am highly interested in data science and full stack development projects.
-<br>
-<em>The reason behind my high curiosity in Data Science is because I am fascinated by the way data can give answers to the questions we never had.</em>
+I am a 4th year Computer Science undegraduate from VIT, Vellore. My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly React.js/Angular.js) and Data Science.
 <br><br><br>
 
 ## Technologies and Tools used by me
