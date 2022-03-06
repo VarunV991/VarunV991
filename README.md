@@ -54,7 +54,7 @@ My domain of interest lies in the field of Full Stack Web Development, specializ
 
 <h2>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
 <div align='center'> 
-  <a href="https://www.linkedin.com/in/varun-v-21920b147/">
+  <a href="https://www.linkedin.com/in/varun-velusamy/">
     <img align="left" alt="Varun | Linkedin" width="24px" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:varunmumbai99@gmail.com">
