@@ -1,15 +1,15 @@
-## Hi there 👋, I'm Varun V. 
+## Hi there 👋, I'm Varun. 
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
 
-<h4>Web Developer || Data Science Enthusiast</h4>
+<h4>Full Stack Developer</h4>
 
 ## About Me
 
-I am a 4th year Computer Science undegraduate from VIT, Vellore. 
+I am currently working as a Software Engineer in Societe Generale Global Solution Centre.
 <br>
 <br>
-My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly React.js/Angular.js) and Data Science.
+My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly Angular.js) and Data Science.
 <br><br><br>
 
 ## Technologies and Tools used by me
