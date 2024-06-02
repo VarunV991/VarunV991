@@ -6,10 +6,10 @@
 
 ## About Me
 
-I am currently working as a Software Engineer in Societe Generale Global Solution Centre.
+I am currently working as a Software Engineer II in PayPal.
 <br>
 <br>
-My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly Angular.js) and Data Science.
+My domain of interest lies in the field of Backend Development using Java, Spring Boot.
 <br><br><br>
 
 ## Technologies and Tools used by me
