@@ -2,7 +2,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
 
-<h4>Full Stack Developer</h4>
+<h4>Backend Developer</h4>
 
 ## About Me
 
